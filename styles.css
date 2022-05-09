@@ -2,3 +2,8 @@ body{
 background: red;
 
 }
+.img{
+  padding: inherit;
+  background: red;
+  background-color: brown;
+}
