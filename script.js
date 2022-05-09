@@ -1,1 +1,0 @@
-var mySpace = getElementsByClassName('div');
